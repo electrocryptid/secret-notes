@@ -1,0 +1,5 @@
+- Research data exfiltration methods [DONE]
+- Write backdoor code
+- Create new secret repo
+- Delete this repo
+- Buy eggs
